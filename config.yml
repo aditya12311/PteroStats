@@ -15,7 +15,7 @@ refreshtime: 60 # Time when the embed edited/refreshed (MUST BE A SECONDS) (RECO
 # Panel Info's
 panel:
   url: 'https://panel.wildreftmc.my.id' # Put panel url here. Example: https://panel.purenodes.net
-  adminkey: 'R64o3jAq0NmVwTZoyKnsdG6CYxcUyfPTKs39t2n2GS2MP3CT' # Put Admin Apikey here. check https://your.host.url/admin/api (your.host.url is an example link) to get the Admin ApiKey
+  adminkey: 'HYUhjvm7CKRn2ImP8IkX26gycsPWwswYN5XxAS6NlWqtNpU3' # Put Admin Apikey here. check https://your.host.url/admin/api (your.host.url is an example link) to get the Admin ApiKey
 
 # Embed Configuration
 embed: 
