@@ -2,20 +2,20 @@
 # If you need help, join our discord server here: https://discord.gg/zv6maQRah3
 
 # Bot Info's
-token: 'BOT TOKEN' # Put bot token here, check https://discord.dev to create and get bot token
+token: 'OTY4NzkyMDk3MzYyNjk4MjUw.Ymj_8w.XzvtHh9Zf7AwwtbKsgvnMda_DVA' # Put bot token here, check https://discord.dev to create and get bot token
 botstatus:
   enable: false # Enable Custom Status (MUST BE "true" OR "false")
   text: 'Hosting Panel' # Bot Status Message
   type: 'WATCHING' # Bot Status Type. Ex: PLAYING, WATCHING, LISTENING, STREAMING
 
 # Channel and RefreshTime Configuration
-channel: 'CHANNEL ID' # Put channel id here where the embed will be sended
+channel: '960536798499590155' # Put channel id here where the embed will be sended
 refreshtime: 60 # Time when the embed edited/refreshed (MUST BE A SECONDS) (RECOMMENDED MORE THAN 20 SECONDS)
 
 # Panel Info's
 panel:
-  url: 'HOST PANEL LINK' # Put panel url here. Example: https://panel.purenodes.net
-  adminkey: 'ADMIN APIKEY' # Put Admin Apikey here. check https://your.host.url/admin/api (your.host.url is an example link) to get the Admin ApiKey
+  url: 'https://panel.wildreftmc.my.id' # Put panel url here. Example: https://panel.purenodes.net
+  adminkey: 'R64o3jAq0NmVwTZoyKnsdG6CYxcUyfPTKs39t2n2GS2MP3CT' # Put Admin Apikey here. check https://your.host.url/admin/api (your.host.url is an example link) to get the Admin ApiKey
 
 # Embed Configuration
 embed: 
